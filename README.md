@@ -26,6 +26,6 @@ Ingeniero en Sistemas Computacionales con interés en:
 📚 Aprendiendo
 
 - Ethical Hacking
-
+- SQL
 ## Contacto
 Correo: yisuscampos08@gmail.com
