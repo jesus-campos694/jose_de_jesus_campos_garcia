@@ -11,7 +11,7 @@ Ingeniero en Sistemas Computacionales con interés en:
 - Ciberseguridad
 - Redes
 - Automatización
-
+- Bases de datos
 ## Tecnologías
 
 - Python
@@ -20,6 +20,7 @@ Ingeniero en Sistemas Computacionales con interés en:
 - PostgreSQL
 - Git
 - Linux
+- SQL Server
 
 ## Actualmente
 
